@@ -33,6 +33,11 @@ Maria Hamdani, Scott Deming, Eddie Lin, Yanfei Zhou
 
 [link](https://drive.google.com/open?id=1XxtGKTufZvxNd74J8_h0bcHqNJBcoUH8)
 
+### Group 7 - Basketball Shooting Analysis
+Fengxian Liu, Jiusi Xu, Siyan Yin, Yifan Sun
+(p.s. Sorry that we just realized to put the link here. We actually uploaded it in assignment8-2017 last night. Hope you enjoy the video!)
+[link](https://www.youtube.com/watch?v=Mmvq7aMtLAk&feature=youtu.be)
+
 ## 2016  
 
 ### Group 1 - The Basketball Team  
