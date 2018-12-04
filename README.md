@@ -1,11 +1,31 @@
 # Assignment 8
-Biometric data
+The Quantified Student
 
 ## Instructions
 
-In groups of 7
+### Part I
+* Open the file class.groups.A8.csv to find the group you have been allocated to
+* You will be working in groups of 7 on a quantified student project
+* Download the *Sensor Kinetics Pro* app to your [iOS](https://itunes.apple.com/us/app/sensor-kinetics-pro/id623633248?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkineticspro&hl=en) device
+* Investiaget the different measures available in the app
 
-Please complete a survey for each of the 2017 films below using the [this link](https://tccolumbia.qualtrics.com/jfe/form/SV_5jLGaZ0obZQDn8N).
+### Part II
+* In consultation with your group select a physical activity that: a) can be measured using the app and b) some members of the group are experts and some are novices at
+* Collect measurements for all members of the group
+* Look for patterns in your data that can be used to differentiate experts from novices
+* Use this information to create an intervention to improve the nove group members' performance
+* Re-measure performance to see if it improved for the novices
+
+### Part III
+Create a presentation that explains your project and upload it to the Assignment 8 Github Repo under 2018 (examples available there too) 
+
+### Part IV
+
+Please complete a survey for each of the 2018 films below using the [this link](https://tccolumbia.qualtrics.com/jfe/form/SV_5jLGaZ0obZQDn8N).
+
+## 2018
+
+
 
 ## 2017  
 
