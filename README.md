@@ -18,12 +18,12 @@ The Quantified Student
 
 ### Part III
 * Create a presentation **(max 10min)** that explains your project and upload it to the Assignment 8 Github Repo under 2018 (examples available there too).
-* **Upload your presentation below by 5:00pm December 13**
+* **Upload your presentation below by 7:00pm December 13**
 
 
 ### Part IV
 
-* Please complete a survey for each of the 2018 films below using the [this link](https://tccolumbia.qualtrics.com/jfe/form/SV_5jLGaZ0obZQDn8N) by **5:00pm December 18**
+* Please complete a survey for each of the 2018 films below using the by **7:00pm December 18** (you will be emailed the survey)
 
 ## 2018  
 
