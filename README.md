@@ -31,6 +31,9 @@ The Quantified Student
 Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang
 [link](https://vialogues.com/vialogues/play/47912)
 
+### Group 1 - Paddle Pros - Using data to create a ping pong champion
+Group 1: Abdul Abad, Caoyuan Chen, Yueyun Gu, Yanyan Liu, Melissa Mock, Euki Sawada, and Sam Thanapornsangsuth
+[link](https://youtu.be/JcOzs6gLzz0)
 
 ## 2017  
 
