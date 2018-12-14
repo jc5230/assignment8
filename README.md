@@ -17,19 +17,36 @@ The Quantified Student
 * Re-measure performance to see if it improved for the novices
 
 ### Part III
-* Create a presentation that explains your project and upload it to the Assignment 8 Github Repo under 2018 (examples available there too).
-* **Upload your presentation below by 5:00pm December 13**
+* Create a presentation **(max 10min)** that explains your project and upload it to the Assignment 8 Github Repo under 2018 (examples available there too).
+* **Upload your presentation below by 7:00pm December 13**
 
 
 ### Part IV
 
-* Please complete a survey for each of the 2018 films below using the [this link](https://tccolumbia.qualtrics.com/jfe/form/SV_5jLGaZ0obZQDn8N) by **5:00pm December 18**
+* Please complete a survey for each of the 2018 films below using the by **7:00pm December 18** (you will be emailed the survey)
 
 ## 2018  
 
 ### Group 3 - Table Tennis Pro
 Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li 
 [link](https://vialogues.com/vialogues/play/47951)
+
+### Group 4 - Chinese Handwriting  
+Taha Adib, Carmen Cortez Morales, Ian Douglas, Yuzhuo Gao, Megan Russell, Sihan Wang, Qingying Zhou
+[link](https://drive.google.com/open?id=1ky0n832iuymt0kZAIDd-SLfzX50OcnyR)
+
+### Group 5 - Beer Pong
+Shuangmu Feng, Yuewen Lin, Oren Ross, Guanren Wang, Linjin Xiao, Stephanie Yang, Mengqi Zhao  
+[link](https://youtu.be/NB02gKPW3m0)
+
+### Group 6 - Badminton Go! Train you to be a badminton pro
+Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang  
+[link](https://vialogues.com/vialogues/play/47912)
+
+### Group 7 - Jump Rope Like a Pro
+Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo  
+[link](https://drive.google.com/a/tc.columbia.edu/file/d/1Mi-2d7L-ZkZEO-Libng5gdafshnYmJv6/view?usp=sharing)
+
 
 ## 2017  
 
