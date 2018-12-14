@@ -50,7 +50,7 @@ Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping
 
 ### Group 7 - Jump Rope Like a Pro
 Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo  
-[link](https://drive.google.com/a/tc.columbia.edu/file/d/1Mi-2d7L-ZkZEO-Libng5gdafshnYmJv6/view?usp=sharing)
+[link](https://vialogues.com/vialogues/play/47971/)
 
 ### Group 8 - Jump Rope
 Haogang Ren, Meijuan Zeng, Seiya Sato, Xuan Ming, Wen Guo, Xixuan Zhao, Ziping Wei  
