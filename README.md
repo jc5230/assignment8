@@ -28,7 +28,7 @@ The Quantified Student
 ## 2018  
 
 ### Group 3 - Table Tennis Pro
-Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li 
+Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li  
 [link](https://vialogues.com/vialogues/play/47951)
 
 ### Group 4 - Chinese Handwriting  
