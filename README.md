@@ -27,6 +27,9 @@ The Quantified Student
 
 ## 2018  
 
+### Group 5 - Beer Pong
+[link](https://youtu.be/NB02gKPW3m0)
+
 ### Group 6 - Badminton Go! Train you to be a badminton pro
 Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang
 [link](https://vialogues.com/vialogues/play/47912)
