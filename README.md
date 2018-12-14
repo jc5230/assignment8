@@ -1,5 +1,3 @@
-##Fall 2018
-
 ## Instructions
 
 ### Part I
@@ -53,6 +51,10 @@ Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping
 ### Group 7 - Jump Rope Like a Pro
 Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo  
 [link](https://drive.google.com/a/tc.columbia.edu/file/d/1Mi-2d7L-ZkZEO-Libng5gdafshnYmJv6/view?usp=sharing)
+
+### Group 8 - Jump Rope
+Haogang Ren, Meijuan Zeng, Seiya Sato, Xuan Ming, Wen Guo, Xixuan Zhao, Ziping Wei  
+[link](https://drive.google.com/open?id=1VyMeCv4LojqMLf1YIj3LbU3E3wNar5WC)
 
 ## 2017  
 
