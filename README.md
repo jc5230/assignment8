@@ -28,14 +28,15 @@ The Quantified Student
 ## 2018  
 
 ### Group 5 - Beer Pong
+Shuangmu Feng, Yuewen Lin, Oren Ross, Guanren Wang, Linjin Xiao, Stephanie Yang, Mengqi Zhao  
 [link](https://youtu.be/NB02gKPW3m0)
 
 ### Group 6 - Badminton Go! Train you to be a badminton pro
-Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang
+Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang  
 [link](https://vialogues.com/vialogues/play/47912)
 
 ### Group 7 - Jump Rope Like a Pro
-Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo
+Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo  
 [link](https://drive.google.com/a/tc.columbia.edu/file/d/1Mi-2d7L-ZkZEO-Libng5gdafshnYmJv6/view?usp=sharing)
 
 ## 2017  
