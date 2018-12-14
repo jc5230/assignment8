@@ -1,5 +1,4 @@
-# Assignment 8
-The Quantified Student
+##Fall 2018
 
 ## Instructions
 
@@ -26,6 +25,10 @@ The Quantified Student
 * Please complete a survey for each of the 2018 films below using the by **7:00pm December 18** (you will be emailed the survey)
 
 ## 2018  
+
+### Group 2 - Jianzi (Chinese shuttlecock kicking)  
+Juan Djuwadi, Jia Hui (Sherry) Feng, Nicola YuenLam Law, Yi Li, Jingyi Lin, Shiyao Wang, Yueya Wang  
+[link](https://vialogues.com/vialogues/play/47948/)
 
 ### Group 3 - Table Tennis Pro
 Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li  
