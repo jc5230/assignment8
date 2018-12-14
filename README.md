@@ -28,7 +28,7 @@ The Quantified Student
 ## 2018  
 
 ### Group 4 - Chinese Handwriting  
-Taha Adib, Carmen Cortez Morales, Ian Douglas, Yuzhuo Gao, Megan Russell, Sihan Wang, Qingying Zhou
+Taha Adib, Carmen Cortez Morales, Ian Douglas, Yuzhuo Gao, Megan Russell, Sihan Wang, Qingying Zhou  
 [link](https://drive.google.com/open?id=1ky0n832iuymt0kZAIDd-SLfzX50OcnyR)
 
 ### Group 5 - Beer Pong
