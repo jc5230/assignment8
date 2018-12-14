@@ -1,5 +1,4 @@
-# Assignment 8
-The Quantified Student
+##Fall 2018
 
 ## Instructions
 
@@ -27,13 +26,33 @@ The Quantified Student
 
 ## 2018  
 
+### Group 1 - Paddle Pros - Using data to create a ping pong champion
+Group 1: Abdul Abad, Caoyuan Chen, Yueyun Gu, Yanyan Liu, Melissa Mock, Euki Sawada, and Sam Thanapornsangsuth  
+[link](https://youtu.be/JcOzs6gLzz0)
+
+### Group 2 - Jianzi (Chinese shuttlecock kicking)  
+Juan Djuwadi, Jia Hui (Sherry) Feng, Nicola YuenLam Law, Yi Li, Jingyi Lin, Shiyao Wang, Yueya Wang  
+[link](https://vialogues.com/vialogues/play/47948/)
+
+### Group 3 - Table Tennis Pro
+Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li  
+[link](https://vialogues.com/vialogues/play/47951)
+
+### Group 4 - Chinese Handwriting  
+Taha Adib, Carmen Cortez Morales, Ian Douglas, Yuzhuo Gao, Megan Russell, Sihan Wang, Qingying Zhou  
+[link](https://drive.google.com/open?id=1ky0n832iuymt0kZAIDd-SLfzX50OcnyR)
+
+### Group 5 - Beer Pong
+Shuangmu Feng, Yuewen Lin, Oren Ross, Guanren Wang, Linjin Xiao, Stephanie Yang, Mengqi Zhao  
+[link](https://youtu.be/NB02gKPW3m0)
+
 ### Group 6 - Badminton Go! Train you to be a badminton pro
-Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang
+Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang  
 [link](https://vialogues.com/vialogues/play/47912)
 
-### Group 1 - Paddle Pros - Using data to create a ping pong champion
-Group 1: Abdul Abad, Caoyuan Chen, Yueyun Gu, Yanyan Liu, Melissa Mock, Euki Sawada, and Sam Thanapornsangsuth
-[link](https://youtu.be/JcOzs6gLzz0)
+### Group 7 - Jump Rope Like a Pro
+Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo  
+[link](https://drive.google.com/a/tc.columbia.edu/file/d/1Mi-2d7L-ZkZEO-Libng5gdafshnYmJv6/view?usp=sharing)
 
 ## 2017  
 

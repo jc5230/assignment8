@@ -1,0 +1,10 @@
+---
+title: "Group 3 Submission Link"
+author: "Anna Lizarov"
+date: "December 13, 2018"
+output: html_document
+---
+
+### Group 3 - Table Tennis Pro
+# Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li 
+# Link: https://vialogues.com/vialogues/play/47951
