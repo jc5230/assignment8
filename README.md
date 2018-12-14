@@ -26,6 +26,10 @@
 
 ## 2018  
 
+### Group 1 - Paddle Pros - Using data to create a ping pong champion
+Group 1: Abdul Abad, Caoyuan Chen, Yueyun Gu, Yanyan Liu, Melissa Mock, Euki Sawada, and Sam Thanapornsangsuth  
+[link](https://youtu.be/JcOzs6gLzz0)
+
 ### Group 2 - Jianzi (Chinese shuttlecock kicking)  
 Juan Djuwadi, Jia Hui (Sherry) Feng, Nicola YuenLam Law, Yi Li, Jingyi Lin, Shiyao Wang, Yueya Wang  
 [link](https://vialogues.com/vialogues/play/47948/)
@@ -49,7 +53,6 @@ Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping
 ### Group 7 - Jump Rope Like a Pro
 Eli Groves, Li Li, Marygracia Aquino-Perez, Xinyi (Veronica) Mai, Xinxu Shen, Yipu Zheng, Yueyue Cuiguo  
 [link](https://drive.google.com/a/tc.columbia.edu/file/d/1Mi-2d7L-ZkZEO-Libng5gdafshnYmJv6/view?usp=sharing)
-
 
 ## 2017  
 
