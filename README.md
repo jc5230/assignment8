@@ -3,7 +3,7 @@
 ### Part I
 * You will be working in groups of less than 7 on a quantified student project
 * Download the *Sensor Kinetics Pro* app to your [iOS](https://itunes.apple.com/us/app/sensor-kinetics-pro/id623633248?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkineticspro&hl=en) device
-* Investiaget the different measures available in the app
+* Investigate the different measures available in the app
 
 ### Part II
 * In consultation with your group select a physical activity that: a) can be measured using the app and b) some members of the group are experts and some are novices at
