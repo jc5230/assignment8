@@ -1,8 +1,7 @@
 ## Instructions
 
 ### Part I
-* Open the file class.groups.A8.csv to find the group you have been allocated to
-* You will be working in groups of 7 on a quantified student project
+* You will be working in groups of less than 7 on a quantified student project
 * Download the *Sensor Kinetics Pro* app to your [iOS](https://itunes.apple.com/us/app/sensor-kinetics-pro/id623633248?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkineticspro&hl=en) device
 * Investiaget the different measures available in the app
 
@@ -21,6 +20,8 @@
 ### Part IV
 
 * Please complete a survey for each of the 2018 films below using the by **7:00pm December 18** (you will be emailed the survey)
+
+## 2019
 
 ## 2018  
 
