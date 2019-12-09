@@ -1,0 +1,55 @@
+---
+title: "Test"
+author: "Jie Chen"
+date: "12/9/2019"
+output: html_document
+---
+
+## R Markdown
+
+## Data Cleaning
+
+```{r}
+# Store multiple data files into multiple variables
+
+storedata <- function(oname) {
+  csv <- read.csv(paste(oname, ".csv", sep=""))
+  csv <- csv[-c(1,2),]
+  csv <- mutate(csv, ID = oname)
+  return(csv)
+}
+
+d <- c()
+for(i in 1:20) {
+   oname = paste(i, sep="")
+   fname = paste("d", oname, sep="")
+   assign(fname, storedata(oname))
+   d <- rbind(d, get(fname))
+}
+
+```
+
+## Data Visualization
+
+
+```{r pressure, echo=FALSE}
+# Multiple graphs
+library(ggplot2)
+ggplot(data=d, aes(x=time)) +
+  geom_line(aes(y = X_value, group = 1), color = "#E7B800") +
+  geom_line(aes(y = Y_value, group = 1), color = "#FC4E07") +
+  geom_line(aes(y = Z_value, group = 1), color = "#52854C")+
+  scale_x_discrete(breaks = NULL) + 
+  scale_y_discrete(breaks = NULL) + 
+  facet_grid(ID ~ .)
+
+# TODO: Crop the proper time period
+
+
+# TODO: Split the plot using classes
+
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
