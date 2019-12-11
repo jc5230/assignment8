@@ -1,16 +1,11 @@
 ---
-title: "Test"
+title: "GraphPlotting"
 author: "Jie Chen"
-date: "12/9/2019"
+date: "12/11/2019"
 output: html_document
 ---
 
-## R Markdown
-
-## Data Cleaning
-
-```{r}
-
+```{r setup, include=FALSE}
 library(tidyverse)
 
 # Store multiple data files into multiple variables
@@ -97,58 +92,3 @@ ggplot(data = aggr.p.nonstrike, mapping = aes(x = time, y = Y_value, group = ID)
   geom_line()
 ```
 
-## Data Visualization
-
-```{r}
-try1 <- rbind(d1, d2, d3)
-try1$group <- "Jane"
-try2 <- rbind (d4, d5, d6)
-try2$group <- "Yiyi"
-try <- rbind(try1, try2)
-# ??? overlap five data in each class
-ggplot(data=try, aes(x=time)) +
-  geom_line(aes(y = X_value, group = 1), color = "#E7B800") +
-  geom_line(aes(y = Y_value, group = 1), color = "#FC4E07") +
-  geom_line(aes(y = Z_value, group = 1), color = "#52854C")+
-  scale_x_discrete(breaks = NULL) + 
-  scale_y_discrete(breaks = NULL) + 
-  facet_grid(group~ .)
-
-```
-```{r}
-
-# Show participant performance
-hist(result$Score)
-
-# Process data, use y data only
-
-library(tidyr)
-aggr.t_p <- aggr.t %>%
-  subset(select = -c(X_value, Z_value)) %>%
-  spread(key = "time", value = "Y_value")
-aggr.t_p[,c(3:23)] <- scale(aggr.t_p[,c(3:23)])
-
-dtree<- rpart(Class ~., method="anova", data=aggr.t_p)
-printcp(dtree)
-rpart.plot(dtree)
-
-# Decision Tree
-library(rpart)
-library(rpart.plot)
-dtree <- rpart(Class ~ Y_value, method="anova", data=aggr.t)
-printcp(dtree)
-rpart.plot(dtree)
-
-dtree2 <- prune(dtree, cp = 0.010823)
-printcp(dtree2)
-rpart.plot(dtree2)
-
-aggr.arousal <- aggr.t[c(11,32,53,74,95,116,137,158,179,200,221,242,263,284,305),]
-dtree.arousal <- rpart(Class ~ X_value + Y_value + Z_value, method="anova", data=aggr.arousal)
-printcp(dtree.arousal)
-
-aggr.p$predict <- predict(dtree.arousal, aggr.p, type = "class")
-table <- table(aggr.p$Class, aggr.p$predict)
-err <- (1-((table[1,1]+table[2,2])/sum(table)))*100
-```
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
